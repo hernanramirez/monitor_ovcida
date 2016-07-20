@@ -1,3 +1,7 @@
 *.pyc
 ._*
 *.sqlite3
+
+.env
+monitor_django/.env
+pydash/.env
